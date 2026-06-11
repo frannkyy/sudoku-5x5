@@ -15,6 +15,7 @@ log_level = 2
 warn_on_root = 1
 
 [android]
+android.accept_sdk_license = True
 # Buildozer can use sensible defaults. Set these if your build environment requires them.
 # android.api = 35
 # android.minapi = 23
